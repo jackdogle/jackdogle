@@ -1,6 +1,6 @@
 <!-- Profil Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Halo%2C+Saya+jackdogle!;Full-Stack+Developer+%7C+Open+Source+Antusias+%7C+Pecinta+Cloud+Native" alt="Profil Header"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hallo%2C+I'm+Jack+Dogle!;Full-Stack+Developer+%7C+Open+Source+Antusias+%7C+Pecinta+Cloud+Native" alt="Profil Header"/>
 </p>
 
 <p align="center">
