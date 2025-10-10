@@ -65,7 +65,15 @@
 ## 📈 Grafik Aktivitas
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jackdogle&theme=react-dark&hide_border=true" alt="Grafik Aktivitas" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jackdogle&theme=react-dark&hide_border=true" alt="Grafik Aktivitas" />
+</p>
+
+---
+
+## 📈 Aktivitas & Statistik
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jackdogle&theme=github_dark" alt="Profile Details" />
 </p>
 
 ---
