@@ -1,6 +1,6 @@
-<!-- Profile Header -->
+<!-- Profil Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+jackdogle!;Full-Stack+Developer+%7C+Open+Source+Enthusiast;Building+the+future+one+commit+at+a+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Halo%2C+Saya+jackdogle!;Full-Stack+Developer+%7C+Open+Source+Antusias+%7C+Pecinta+Cloud+Native" alt="Profil Header"/>
 </p>
 
 <p align="center">
@@ -9,27 +9,27 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Tentang Saya
 
-- 🔭 I’m currently working on **cutting-edge cloud-native applications**
-- 🌱 I’m always learning about **AI, distributed systems, and DevOps**
-- 👯 I’m looking to collaborate on **open source and impactful projects**
-- 💬 Ask me about **web, backend, or cloud engineering**
-- ⚡ Fun fact: I love **generative art and hackathons**
+- 🔭 Saat ini fokus mengembangkan **aplikasi cloud-native inovatif**
+- 🌱 Rajin memperdalam **AI, sistem terdistribusi, dan DevOps**
+- 🤝 Terbuka untuk kolaborasi di **proyek open source berdampak positif**
+- 💡 Diskusi seputar **web, backend, cloud engineering? Let’s connect!**
+- 🎨 Fun fact: Saya senang **menciptakan generative art & mengikuti hackathon**
 
 ---
 
-## 🏆 GitHub Stats
+## 🏆 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jackdogle&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jackdogle&show_icons=true&theme=radical&hide_border=true" alt="Statistik GitHub" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jackdogle&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackdogle&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackdogle&layout=compact&theme=radical&hide_border=true" alt="Bahasa Teratas" />
 </p>
 
 ---
 
-## 🛠️ Toolbox
+## 🛠️ Toolbox Favoritku
 
 <div align="center">
   <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -43,7 +43,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Temukan & Terhubung
 
 <p align="center">
   <a href="https://github.com/jackdogle"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -54,28 +54,28 @@
 
 ---
 
-## 🧩 Featured Projects
+## 🧩 Proyek Unggulan
 
-- [**Awesome Cloud Toolkit**](https://github.com/jackdogle/awesome-cloud-toolkit): Curated tools for cloud engineers
-- [**AI Art Generator**](https://github.com/jackdogle/ai-art-generator): Create generative art with AI
-- [**DevOps Dash**](https://github.com/jackdogle/devops-dash): Modern dashboard for DevOps metrics
+- [**Awesome Cloud Toolkit**](https://github.com/jackdogle/awesome-cloud-toolkit): Kumpulan tools cloud terbaik untuk para engineer modern
+- [**AI Art Generator**](https://github.com/jackdogle/ai-art-generator): Platform seni digital generatif berbasis AI
+- [**DevOps Dash**](https://github.com/jackdogle/devops-dash): Dashboard visual kekinian untuk monitoring metrik DevOps
 
 ---
 
-## 📈 Activity Graph
+## 📈 Grafik Aktivitas
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jackdogle&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jackdogle&theme=react-dark&hide_border=true" alt="Grafik Aktivitas" />
 </p>
 
 ---
 
-## 📝 Latest Blog Posts
+## 📝 Blog & Tulisan Terbaru
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Modern DevOps Pipeline](https://dev.to/jackdogle/how-to-build-a-modern-devops-pipeline-1234)
-- [10 Tips for Cloud-Native Development](https://dev.to/jackdogle/10-tips-for-cloud-native-development-5678)
-- [Mastering GitHub Actions](https://dev.to/jackdogle/mastering-github-actions-9101)
+- [Cara Membangun Pipeline DevOps Modern](https://dev.to/jackdogle/how-to-build-a-modern-devops-pipeline-1234)
+- [10 Tips Pengembangan Cloud-Native](https://dev.to/jackdogle/10-tips-for-cloud-native-development-5678)
+- [Tips Mastering GitHub Actions](https://dev.to/jackdogle/mastering-github-actions-9101)
 <!-- BLOG-POST-LIST:END -->
 
 ---
