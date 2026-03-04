@@ -1,8 +1,3 @@
-<!-- Header Decoration -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6B46C1&height=220&section=header&text=Jack%20Dogle&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Network%20Automation%20%7C%20Bot%20Developer%20%7C%20DevOps&descAlignY=60&descAlign=50" alt="Header Background" width="100%"/>
-</div>
-
 <!-- Animated Profile Picture -->
 <div align="center">
   <a href="https://github.com/jackdogle">
@@ -10,6 +5,12 @@
     <img src="https://github.com/jackdogle/jackdogle/blob/main/profile_animation.gif?raw=true" width="160" height="160" alt="Jack Dogle Profile Animation" style="border-radius: 50%;" />
   </a>
 </div>
+
+<!-- Header Decoration -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6B46C1&height=220&section=header&text=Jack%20Dogle&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Network%20Automation%20%7C%20Bot%20Developer%20%7C%20DevOps&descAlignY=60&descAlign=50" alt="Header Background" width="100%"/>
+</div>
+
 <!-- Typing Effect -->
 <p align="center">
   <a href="https://git.io/typing-svg">
