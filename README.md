@@ -5,6 +5,7 @@
     <img src="https://github.com/jackdogle/jackdogle/blob/main/profile_animation.gif?raw=true" width="160" height="160" alt="Jack Dogle Profile Animation" style="border-radius: 50%;" />
   </a>
 </div>
+<br></br>
 
 <!-- Header Decoration -->
 <div align="center">
