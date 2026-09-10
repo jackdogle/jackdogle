@@ -85,10 +85,9 @@
   </a>
   <br /><br />
   <a href="https://github.com/jackdogle">
-    <img src="https://github-profile-repo.vercel.app/?username=jackdogle&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=7&amp;margin-w=8&amp;title_color=36BCF7" alt="Trofi GitHub" />
+    <img src="https://github-profile-repo.vercel.app/?username=jackdogle&amp;theme=tokyonight&amp;no-frame=false&amp;row=3&amp;column=7&amp;margin-w=8&amp;title_color=36BCF7" alt="Trofi GitHub" />
   </a>
 </div>
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img src="https://github-profile-repo.vercel.app/?username=juletx&column=3&margin-w=15&margin-h=15&theme=dracula" alt="GitHub Trophies" /></a></p>
 <br />
 
 <!-- Activity Graph Fix -->
