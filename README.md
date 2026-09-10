@@ -28,7 +28,7 @@
 
 <!-- About Me Section -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q1ZWRjZWRjZWRjZWRjZWRjZWRjZWRjZWRjZWRjZWRjZWRjZWRjZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="30" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30" />
   <h2>🚀 Di Balik Layar</h2>
 </div>
 
@@ -52,22 +52,43 @@
 
 <br/>
 
-<!-- GitHub Stats Section (STABLE VERSION - Side by Side) -->
+<!-- GitHub Stats Section -->
 <h2 align="center">🏆 Statistik GitHub</h2>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jackdogle&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+<br/>
 
 <div align="center">
   <table align="center">
     <tr>
       <td align="center" valign="top" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jackdogle&theme=tokyonight" alt="Profile Details" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=jackdogle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistik GitHub" width="100%" />
       </td>
       <td align="center" valign="top" width="50%">
-         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jackdogle&theme=tokyonight" alt="Top Languages" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackdogle&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Bahasa Teratas" width="100%" />
       </td>
     </tr>
   </table>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jackdogle&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=jackdogle&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jackdogle&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trofi GitHub" />
+</div>
+
+<!--
+  Catatan: Jika kartu di atas sempat menampilkan "Data belum siap" saat pertama
+  kali dimuat, itu normal — layanan pihak ketiga ini butuh beberapa detik untuk
+  menghubungi GitHub API. Cukup refresh halaman profil.
+-->
+
+<br/>
+
+<!-- Activity Graph -->
+<h2 align="center">📈 Aktivitas Coding</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jackdogle&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff" alt="Grafik Aktivitas" width="100%" />
 </div>
 
 <br/>
@@ -128,15 +149,6 @@
 
 <br/>
 
-<!-- Activity Graph -->
-<h2 align="center">📈 Aktivitas Coding</h2>
-<div align="center">
-    <img src="https://github-contribution-stats.vercel.app/api/?username=jackdogle&theme=onedark" width="30%" />
-  --<img src="https://github-readme-activity-graph.vercel.app/graph?username=jackdogle&theme=tokyonight&hide_border=true&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff" alt="Grafik Aktivitas" width="100%" />
-</div>
-
-<br/>
-
 <!-- Connect Section -->
 <h2 align="center">🌐 Mari Terhubung</h2>
 <div align="center">
@@ -147,6 +159,7 @@
   <a href="https://linkedin.com/in/jack-dogle-4981943b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <!-- Ganti dengan alamat email asli Anda -->
   <a href="mailto:jackdogle@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
