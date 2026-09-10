@@ -69,7 +69,7 @@
     <tr>
       <td align="center" valign="top">
         <a href="https://github.com/jackdogle">
-          <img src="https://github-readme-stats.vercel.app/api?username=jackdogle&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;title_color=36BCF7" alt="Statistik GitHub" />
+          <img src="https://ghstats.dev/api/card?username=jackdogle&theme=tokyonight&border_radius=3&custom_title=GitHub+Stast" alt="GitHub Statistik" />
         </a>
       </td>
       <td align="center" valign="top">
