@@ -95,7 +95,7 @@
 <div align="center">
   <h2>📈 Aktivitas Coding</h2>
   <a href="https://github.com/jackdogle">
- <img src="https://octometrics.vercel.app/api/repos?username=jackdogle&theme=dark&count=6&sort=stars" width="30%" />
+ <img src="https://octometrics.vercel.app/api/repos?username=jackdogle&theme=tokyonigth&count=8&sort=stars" width="100%" />
   </a>
  </div>
 
