@@ -1,14 +1,14 @@
 <!-- Animated Profile Picture -->
 <div align="center">
   <a href="https://github.com/jackdogle">
-    <img src="https://github.com/jackdogle/jackdogle/blob/main/profile_animation.gif?raw=true" width="160" height="160" alt="Jack Dogle Profile Animation" style="border-radius: 50%; box-shadow: 0px 4px 12px rgba(59,130,246,0.3);" />
-  </a>
+    <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:36BCF7,100:6B46C1&amp;height=220&amp;section=header&amp;text=Jack%20Dogle&amp;fontSize=70&amp;fontAlignY=35&amp;animation=fadeIn&amp;fontColor=ffffff&amp;desc=Network%20Automation%20%7C%20Bot%20Developer%20%7C%20DevOps&amp;descAlignY=60&amp;descAlign=50" alt="Header Background" width="100%"/>
 </div>
 <br />
 
 <!-- Header Decoration -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:36BCF7,100:6B46C1&amp;height=220&amp;section=header&amp;text=Jack%20Dogle&amp;fontSize=70&amp;fontAlignY=35&amp;animation=fadeIn&amp;fontColor=ffffff&amp;desc=Network%20Automation%20%7C%20Bot%20Developer%20%7C%20DevOps&amp;descAlignY=60&amp;descAlign=50" alt="Header Background" width="100%"/>
+  <img src="https://github.com/jackdogle/jackdogle/blob/main/profile_animation.gif?raw=true" width="160" height="160" alt="Jack Dogle Profile Animation" style="border-radius: 50%; box-shadow: 0px 4px 12px rgba(59,130,246,0.3);" />
+  </a>
 </div>
 
 <!-- Typing Effect -->
