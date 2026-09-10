@@ -69,12 +69,12 @@
     <tr>
       <td align="center" valign="top">
         <a href="https://github.com/jackdogle">
-          <img src="https://ghstats.dev/api/card?username=jackdogle&theme=tokyonight&border_radius=3&custom_title=GitHub+Stast" alt="GitHub Statistik" />
+          <img src="https://ghstats.dev/api/card?username=jackdogle&theme=tokyonight&border_radius=3&custom_title=GitHub+Stast&hide=followers%2Cprs%2Cavg%2Crepos%2Ccommits%2Cissues%2Chours" alt="GitHub Statistik" />
         </a>
       </td>
       <td align="center" valign="top">
         <a href="https://github.com/jackdogle">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackdogle&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=6&amp;title_color=36BCF7" alt="Bahasa Teratas" />
+          <img src="https://ghstats.dev/api/langs?username=jackdogle&theme=tokyonight&hide_title=true&custom_title=GitHub+S&max_langs=6&layout=vertical_list" alt="Bahasa Teratas" />
         </a>
       </td>
     </tr>
