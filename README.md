@@ -95,8 +95,9 @@
 <div align="center">
   <h2>📈 Aktivitas Coding</h2>
   <a href="https://github.com/jackdogle">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jackdogle&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;color=36BCF7&amp;line=36BCF7&amp;point=ffffff" alt="Grafik Aktivitas" style="max-width: 100%;" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jackdogle&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;color=36BCF7&amp;line=36BCF7&amp;point=ffffff" alt="Grafik Aktivitas" style="max-width: 30%;" />
   </a>
+    <img src="https://github-contribution-stats.vercel.app/api/?username=jackdogle&theme=tokyonight" width="30%" />
 </div>
 
 <br />
