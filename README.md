@@ -131,6 +131,7 @@
 <!-- Activity Graph -->
 <h2 align="center">📈 Aktivitas Coding</h2>
 <div align="center">
+    <img src="https://github-contribution-stats.vercel.app/api/?username=jackdogle&theme=onedark" width="30%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jackdogle&theme=tokyonight&hide_border=true&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff" alt="Grafik Aktivitas" width="100%" />
 </div>
 
