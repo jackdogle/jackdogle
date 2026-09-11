@@ -1,4 +1,4 @@
-<!-- Animated Profile Picture -->
+<!-- Animated Profile Picture Jackdogle-->
 <div align="center">
   <a href="https://github.com/jackdogle">
     <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:36BCF7,100:6B46C1&amp;height=220&amp;section=header&amp;text=Jack%20Dogle&amp;fontSize=70&amp;fontAlignY=35&amp;animation=fadeIn&amp;fontColor=ffffff&amp;desc=Network%20Automation%20%7C%20Bot%20Developer%20%7C%20DevOps&amp;descAlignY=60&amp;descAlign=50" alt="Header Background" width="100%"/>
