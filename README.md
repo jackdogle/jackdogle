@@ -162,7 +162,7 @@
   <a href="https://github.com/jackdogle">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/jack-dogle-4981943b">
+  <a href="https://linkedin.com/in/jackdogle">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:rialdi180302@gmail.com">
